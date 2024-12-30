@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: If you use this project, please cite it as follows.
+authors:
+  - family-names: Irmak
+    given-names: Muhammed Coşkun
+  - family-names: Aydın
+    given-names: Tolga
+  - family-names: Yağanoğlu
+    given-names: Mete
+title: A novel integration of multiple learning methods for detecting misleading information from different datasets during the pandemic
+date-released: 2025-02-15
+doi: 10.1016/j.engappai.2024.109944
+url: https://www.sciencedirect.com/science/article/pii/S0952197624021031
